@@ -1,0 +1,7 @@
+datasets
+gensim
+nltk
+ollama
+pandas
+pyLDAvis
+scikit-learn
